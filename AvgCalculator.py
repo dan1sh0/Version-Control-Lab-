@@ -11,5 +11,5 @@ if numbers:
     average = sum(numbers) / len(numbers)
     print("The average of the numbers is:", average)
 else:
-    print("No numbers entered.")
+    print("No numbers were entered.")
    
