@@ -1,5 +1,6 @@
 CODE OF CONDUCT 
 
+
 The Big ideas in Computing course desires honesty,respectable, hardwork.
 This project strives to uphold these same values. 
 We welcome everyone to participate and collaborate with their own unique ideas and different perspectives 
